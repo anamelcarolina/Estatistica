@@ -1,0 +1,6 @@
+AC1: Erro de Certificado
+AC2: Erro de Certificado
+AC3: Erro de Biometria
+AC4: Erro de Anexo1
+AC1: Erro de Certificado
+AC1: Erro de Biometria
